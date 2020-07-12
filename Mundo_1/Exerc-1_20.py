@@ -1,4 +1,4 @@
-'''#Exercicio 1 (Hello World)
+#Exercicio 1 (Hello World)
 print('Hello World')
 
 #Exercicio 2 (Escreva nome)
@@ -109,9 +109,7 @@ print(f'O valor a ser pago eh R${(quant_km*0.15)+(quant_dia*60):.2f}')
 #Exercicio 16 (QUEBRANDO UM NUMERO)
 
 numb = float(input('Digite um numero:'))
-if numb < 0:
-    print(f'O numero nao tem porcao inteira')
-else:
+print(f'O valor digitado foi {numb} e a sua porcao inteira eh {int(numb)}')
 
 #Exercicio 17 (CATETOS E HIPOTENUSA)
 
@@ -130,16 +128,29 @@ angulo = float(input('Digite o angulo qualquer:'))
 
 print(f'O cosseno eh {cos(radians(angulo)):.2f}')
 print(f'A tangente eh {tan(radians(angulo)):.2f}')
-print(f'O seno eh {sin(radians(angulo)):.2f}')'''
+print(f'O seno eh {sin(radians(angulo)):.2f}')
 
 #Exercicio 19 (SORTEANDO UM ITEM NA LISTA)
 
-from random import randint
+from random import choice 
 
-lista_nomes = list()
-for n in range(0,4):
-    lista_nomes.append[n](int(input('Digite o nome do aluno:')))
+nome1 = str(input('Digite o nome do primeiro aluno:'))
+nome2 = str(input('Digite o nome do segundo aluno:'))
+nome3 = str(input('Digite o nome do terceiro aluno:'))
+nome4 = str(input('Digite o nome do quarto aluno:'))
+lista = [nome1, nome2, nome3, nome4]
 
-print(f'O sorteado foi {randint(lista_nomes)}')
 
+print(f'O nome sorteado foi {choice(lista)}')
 
+#Exercicio 20 (SORTEANDO UMA ORDEM  NA LISTA)
+
+from random import shuffle 
+
+nome1 = str(input('Digite o nome do primeiro aluno:'))
+nome2 = str(input('Digite o nome do segundo aluno:'))
+nome3 = str(input('Digite o nome do terceiro aluno:'))
+nome4 = str(input('Digite o nome do quarto aluno:'))
+lista = [nome1, nome2, nome3, nome4]
+shuffle(lista)
+print(f'A ordem de apresentacao sera\n{lista}')
