@@ -13,5 +13,5 @@ while control in "Ss":
             array.append(value)
     cont = cont + 1    
     control  = str(input("\nDeseja continuar [S/N]: "))
-    print(array)
+print(sorted(array))
 print("\n" , "="*30, "END", "="*30)
