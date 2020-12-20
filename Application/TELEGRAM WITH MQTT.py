@@ -17,7 +17,7 @@ matrix = np.empty([0,2])
 
 """Conexões do broker e telegram:"""
 broker = "SEU TOKEN broker"
-port=1883
+port = 1111 #NUMERO DA PORTA
 bot = telebot.TeleBot("SEU TOKEN")
 
 
