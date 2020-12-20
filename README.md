@@ -1,9 +1,9 @@
 # SOBRE MEU REPOSITÓRIO PYTHON
  
-## Na pasta LEARN:
+## Na pasta [LEARN](https://github.com/Mendes1302/Python-Learning/tree/master/Learn):
  * Exercícios resolvidos.
  
-## Na pasta APPLICATION:
+## Na pasta [APPLICATION](https://github.com/Mendes1302/Python-Learning/tree/master/Application):
  * Tem algumas aplicações usadas com Python.
   
  ## Referências e onde aprendi:
