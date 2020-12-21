@@ -1,11 +1,20 @@
 # SOBRE MEU REPOSITÓRIO PYTHON
  
 ## Na pasta [LEARN](https://github.com/Mendes1302/Python-Learning/tree/master/Learn):
- * Exercícios resolvidos.
+* Exercícios resolvidos.
  
 ## Na pasta [APPLICATION](https://github.com/Mendes1302/Python-Learning/tree/master/Application):
- * Tem algumas aplicações usadas com Python.
+* Tem algumas aplicações usadas com Python.
   
- ## Referências e onde aprendi:
-  * [Curso em Vídeo](https://www.youtube.com/watch?v=nIHq1MtJaKs&list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-).
-  * No meu estágio na empresa [Sistel engenharia](https://sistelengenharia.com.br/).
+## Referências e onde aprendi:
+* SITE:
+	* [Curso em Vídeo](https://www.youtube.com/watch?v=nIHq1MtJaKs&list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-).
+	
+* BOOK:
+	* [Caelum](https://www.caelum.com.br/apostila/apostila-python-orientacao-a-objetos.pdf).
+
+* FACULDADE OU TRABALHO:
+	* No meu estágio na empresa [Sistel engenharia](https://sistelengenharia.com.br/).
+			
+		
+  
