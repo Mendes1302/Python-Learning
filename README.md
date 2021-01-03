@@ -18,7 +18,7 @@
 * Tem algumas aplicações de BACK-END.
 	- [x] POSTGRESQL.
 	- [x] TELEGRAM BOT.
-	- [x] MQTThttps://github.com/Mendes1302/Python-Learning/tree/master/Machine%20Learning
+	- [x] MQTT
 	
 ## Na pasta [MACHINE LEARNING](https://github.com/Mendes1302/Python-Learning/tree/master/Machine%20Learning):
 * Tem algumas aplicações usadas em IA.
