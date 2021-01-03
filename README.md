@@ -1,10 +1,32 @@
 # SOBRE MEU REPOSITÓRIO PYTHON
  
 ## Na pasta [LEARN](https://github.com/Mendes1302/Python-Learning/tree/master/Learn):
-* Exercícios resolvidos.
+* Aprendendo sobre a linguagem com exercícios resolvidos.
+	- [x] DEF.
+	- [x] FOR / WHILE.
+	- [x] TRY / EXCEPTION / ELSE / FINALLY
+	- [x] LIST / DICIONARY / TUPLAS
+	- [x] IF / ELIF / ELSE
+	- [x] PRINT / INPUT / MANIPULATING STRINGS
+	- [x] USED SOME LIBRARIES:
+		* MATH
+		* TIME
+		* RANDOM
+		* ...
  
 ## Na pasta [APPLICATION](https://github.com/Mendes1302/Python-Learning/tree/master/Application):
-* Tem algumas aplicações usadas com Python.
+* Tem algumas aplicações de BACK-END.
+	- [x] POSTGRESQL.
+	- [x] TELEGRAM BOT.
+	- [x] MQTThttps://github.com/Mendes1302/Python-Learning/tree/master/Machine%20Learning
+	
+## Na pasta [MACHINE LEARNING](https://github.com/Mendes1302/Python-Learning/tree/master/Machine%20Learning):
+* Tem algumas aplicações usadas em IA.
+	- [x] ALGORITMO DE REGRESSÃO LINEAR.
+
+## Na pasta [WEB SCRAPING](https://github.com/Mendes1302/Python-Learning/tree/master/Web%20Scraping):
+* Tem algumas aplicações usadas de Web Scraping.
+	- [x] LISTA TELEFÔNICA DE SÃO PAULO.
   
 ## Referências e onde aprendi:
 * SITE ou CANAL YOUTUBE:
