@@ -15,17 +15,17 @@
 		* ...
  
 ## Na pasta [APPLICATION](https://github.com/Mendes1302/Python-Learning/tree/master/Application):
-* Tem algumas aplicações de BACK-END.
+* Aplicações de BACK-END.
 	- [x] POSTGRESQL.
 	- [x] TELEGRAM BOT.
 	- [x] MQTT
 	
 ## Na pasta [MACHINE LEARNING](https://github.com/Mendes1302/Python-Learning/tree/master/Machine%20Learning):
-* Tem algumas aplicações usadas em IA.
+* Aplicações usadas em IA.
 	- [x] ALGORITMO DE REGRESSÃO LINEAR.
 
 ## Na pasta [WEB SCRAPING](https://github.com/Mendes1302/Python-Learning/tree/master/Web%20Scraping):
-* Tem algumas aplicações usadas de Web Scraping.
+* Aplicações usadas de Web Scraping.
 	- [x] LISTA TELEFÔNICA DE SÃO PAULO.
   
 ## Referências e onde aprendi:
