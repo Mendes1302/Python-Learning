@@ -1,4 +1,5 @@
 from random import randint
+import psycopg2
 array = list()
 question = int(input("Digite quantos jogos você quer: "))
 for i in range(0, question):
