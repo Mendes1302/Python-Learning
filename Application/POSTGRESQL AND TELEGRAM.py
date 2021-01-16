@@ -5,7 +5,7 @@ import numpy as np
 global vetor
 vetor = np.empty([0], dtype=int)
 
-con = sql.connect(database='teste', user='admin', password='key')
+con = sql.connect(database='teste', user='postgres', password='1302')
 cur = con.cursor()
 
 def update_matriz():
