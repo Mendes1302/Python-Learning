@@ -24,10 +24,6 @@
 * Aplicações usadas em IA.
 	- [x] ALGORITMO DE REGRESSÃO LINEAR.
 
-## Na pasta [WEB SCRAPING](https://github.com/Mendes1302/Python-Learning/tree/master/Web%20Scraping):
-* Aplicações usadas de Web Scraping.
-	- [x] LISTA TELEFÔNICA DE SÃO PAULO.
-
 ## Na pasta [LIBRARY](https://github.com/Mendes1302/Python-Learning/tree/master/Library):
 * Bibliotecas disponíveis:
 	- [x] COR NO TERMINAL.
