@@ -1,19 +1,16 @@
 from matplotlib import pyplot as plt
 
-friends = [70, 65, 72, 63, 71, 64, 60, 64, 67]
-minutes = [175, 170, 205, 120, 220, 130, 105, 145, 190]
-labels = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i']
-
-plt.scatter(friends, minutes)
-
-for label, friend_count, minute_count in zip(labels, friends, minutes):
-    plt.annotate(label, 
-    xy=(friend_count, minute_count),
-    xytext=(5, -5), 
-    textcoords='offset points')
+movies = ["Annie Hall", "Ben-Hur", "casablanca", "Ganndhi", "West Side Story"]
+num_oscars = [5, 11, 3, 8, 10]
 
 
-plt.title('Minutos por dia vs Número de amigos')
-plt.xlabel('#  de amigos')
-plt.ylabel('minutos diários na internet')
+xl = list()
+for i, _ in enumerate(movies):
+    xl.append(i+0.1)
+
+plt.bar(xl, num_oscars)
+plt.ylabel("# de Premiações")
+plt.title("Meus Filmes Favoritos")
+plt.xticks([i + 0.1 for i, _ in enumerate(movies)], movies)
+
 plt.show()
