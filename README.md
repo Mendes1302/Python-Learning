@@ -19,10 +19,7 @@
 	- [x] POSTGRESQL.
 	- [x] TELEGRAM BOT.
 	- [x] MQTT
-	
-## Na pasta [MACHINE LEARNING](https://github.com/Mendes1302/Python-Learning/tree/master/Machine%20Learning):
-* Aplicações usadas em IA.
-	- [x] ALGORITMO DE REGRESSÃO LINEAR.
+	- [ ] 
 
 ## Na pasta [LIBRARY](https://github.com/Mendes1302/Python-Learning/tree/master/Library):
 * Bibliotecas disponíveis:
