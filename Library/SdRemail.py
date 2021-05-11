@@ -148,11 +148,3 @@ class harpo:
         else:
             self.__clean(mail_ids, mail)
             return True
-        
-
-    
-
-EMAIL = 'lucas.barbosa@sistelengenharia.com.br'
-PASSWORD = 'Lucas@Sistel3#'
-SERV = ["mail.sistelengenharia.com.br"]
-mail = harpo(EMAIL, PASSWORD, SERV)
