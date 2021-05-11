@@ -19,7 +19,6 @@
 	- [x] POSTGRESQL.
 	- [x] TELEGRAM BOT.
 	- [x] MQTT
-	- [ ] 
 
 ## Na pasta [LIBRARY](https://github.com/Mendes1302/Python-Learning/tree/master/Library):
 * Bibliotecas disponíveis:
