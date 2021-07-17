@@ -22,7 +22,13 @@
 
 ## Na pasta [LIBRARY](https://github.com/Mendes1302/Python-Learning/tree/master/Library):
 * Bibliotecas disponíveis:
-	- [x] COR NO TERMINAL.
+	- [x] COR NO TERMINAL: [ColorTerminal](https://github.com/Mendes1302/Python-Learning/blob/master/Library/ColorTerminal.py).
+	- [x] CONVERTER PARA BASE64: [Bs64](https://github.com/Mendes1302/Python-Learning/blob/master/Library/Bs64.py).
+	- [x] FACILITADOR PARA O SELENIUM: [Facilitator](https://github.com/Mendes1302/Python-Learning/blob/master/Library/Facilitator.py).
+	- [x] OBTER DOMÍNIO E SUB-DOMÍNIO DE SITES OU E-MAIL: [General_cleaning](https://github.com/Mendes1302/Python-Learning/blob/master/Library/General_cleaning.py).
+	- [x] ENVIAR E RECEBER EMAIL: [SdRemail](https://github.com/Mendes1302/Python-Learning/blob/master/Library/SdRemail.py).
+	- [x] AGENDADOR: [TimeSettings](https://github.com/Mendes1302/Python-Learning/blob/master/Library/TimeSettings.py).
+	- [x] PESQUISA NO GOOGLE E RETORNO DE URL SOBRE:  [Search_](https://github.com/Mendes1302/Python-Learning/blob/master/Library/Search_.py).
   
 ## Referências e onde aprendi:
 * SITE ou CANAL YOUTUBE:
@@ -30,10 +36,6 @@
 	* [Diogo Cortiz](https://www.youtube.com/c/DiogoCortiz).
 	
 * BOOK:
-	* [Caelum](https://www.caelum.com.br/apostila/apostila-python-orientacao-a-objetos.pdf).
-
-* FACULDADE OU TRABALHO:
-	* No meu estágio na empresa [Sistel engenharia](https://sistelengenharia.com.br/).
-			
+	* [Caelum](https://www.caelum.com.br/apostila/apostila-python-orientacao-a-objetos.pdf).	
 		
-  
+ 
